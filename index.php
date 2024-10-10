@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>FON: Zakazivanje kolokvijuma</title>
+    <title>FON: Zakazivanje kolokvijuma 2024/25</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
